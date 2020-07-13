@@ -1,5 +1,5 @@
 {
-	"name": "lightspeed/flysystem-google-storage",
+	"name": "lightspeed/flysystem-google-cloud-storage",
 	"description": "Flysystem adapter for Google Cloud Storage",
 	"license": "MIT",
 	"authors": [
